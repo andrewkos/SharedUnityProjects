@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestructTerrainV1.CSharp.Plugins", "DestructTerrainV1.CSharp.Plugins.csproj", "{7EBA3A5B-A488-DDB1-3844-BE7C5BD2F5AF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestructTerrainV1.CSharp", "DestructTerrainV1.CSharp.csproj", "{07FA5B8D-C02C-177B-E94A-21F65D464C8F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestructTerrainV1.CSharp.Editor", "DestructTerrainV1.CSharp.Editor.csproj", "{632DDCFB-E15E-D5E5-6FAE-32FB6827F06A}"
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7EBA3A5B-A488-DDB1-3844-BE7C5BD2F5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EBA3A5B-A488-DDB1-3844-BE7C5BD2F5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EBA3A5B-A488-DDB1-3844-BE7C5BD2F5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EBA3A5B-A488-DDB1-3844-BE7C5BD2F5AF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{07FA5B8D-C02C-177B-E94A-21F65D464C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{07FA5B8D-C02C-177B-E94A-21F65D464C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07FA5B8D-C02C-177B-E94A-21F65D464C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
